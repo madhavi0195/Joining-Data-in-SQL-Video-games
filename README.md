@@ -1,6 +1,6 @@
 # Joining-Data-in-SQL-Video-games
 
-Hello, This project is part of the DataCamp course, Data Analyst in SQL which I've completed few months back. you can find the project details below to get more idea!
+This project is part of the DataCamp course-Data Analyst in SQL which I've completed. you can find the project details below to get more idea!
 
 Project Name: When was the golden Age of video games?
 
